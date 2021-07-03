@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Custis/1.0.0": {
+        "dependencies": {
+          "Generator": "1.0.0"
+        },
+        "runtime": {
+          "Custis.dll": {}
+        }
+      },
+      "Generator/1.0.0": {
+        "runtime": {
+          "Generator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Custis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Generator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

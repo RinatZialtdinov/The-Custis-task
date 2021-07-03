@@ -1,0 +1,16 @@
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\Custis\bin\Debug\netcoreapp3.1\Custis.exe
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\Custis\bin\Debug\netcoreapp3.1\Custis.deps.json
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\Custis\bin\Debug\netcoreapp3.1\Custis.runtimeconfig.json
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\Custis\bin\Debug\netcoreapp3.1\Custis.runtimeconfig.dev.json
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\Custis\bin\Debug\netcoreapp3.1\Custis.dll
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\Custis\bin\Debug\netcoreapp3.1\Custis.pdb
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\Custis\bin\Debug\netcoreapp3.1\Generator.dll
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\Custis\bin\Debug\netcoreapp3.1\Generator.pdb
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\Custis\obj\Debug\netcoreapp3.1\Custis.csprojAssemblyReference.cache
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\Custis\obj\Debug\netcoreapp3.1\Custis.AssemblyInfoInputs.cache
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\Custis\obj\Debug\netcoreapp3.1\Custis.AssemblyInfo.cs
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\Custis\obj\Debug\netcoreapp3.1\Custis.csproj.CoreCompileInputs.cache
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\Custis\obj\Debug\netcoreapp3.1\Custis.csproj.CopyComplete
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\Custis\obj\Debug\netcoreapp3.1\Custis.dll
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\Custis\obj\Debug\netcoreapp3.1\Custis.pdb
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\Custis\obj\Debug\netcoreapp3.1\Custis.genruntimeconfig.cache

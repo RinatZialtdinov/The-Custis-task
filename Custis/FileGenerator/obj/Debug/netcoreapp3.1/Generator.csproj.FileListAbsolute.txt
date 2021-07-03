@@ -1,0 +1,8 @@
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\FileGenerator\bin\Debug\netcoreapp3.1\Generator.deps.json
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\FileGenerator\bin\Debug\netcoreapp3.1\Generator.dll
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\FileGenerator\bin\Debug\netcoreapp3.1\Generator.pdb
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\FileGenerator\obj\Debug\netcoreapp3.1\Generator.AssemblyInfoInputs.cache
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\FileGenerator\obj\Debug\netcoreapp3.1\Generator.AssemblyInfo.cs
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\FileGenerator\obj\Debug\netcoreapp3.1\Generator.csproj.CoreCompileInputs.cache
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\FileGenerator\obj\Debug\netcoreapp3.1\Generator.dll
+C:\Users\OUT-Zialtdinov-RE\source\repos\Custis\FileGenerator\obj\Debug\netcoreapp3.1\Generator.pdb
